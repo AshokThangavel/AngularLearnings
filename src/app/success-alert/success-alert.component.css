@@ -1,0 +1,8 @@
+p {
+    color: darkblue;
+    font-weight: bold;
+    font-style: initial;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+    border: 1px solid green;
+    background-color: green;
+}
